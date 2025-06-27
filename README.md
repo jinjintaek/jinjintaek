@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jintaek from South Korea</h2>
+<h2 align="left">Hi 👋! My name is Jintaek from 🇰🇷</h2>
 
 ###
 
